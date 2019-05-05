@@ -1,7 +1,7 @@
 # [Index](https://github.com/zombietimes/index.git)
-This site is a list of links about the DApps.
+This site is a list of links about DApps.
 
-# Zombie Times
+# Zombie Times Repositories
 ## Sample DApps
 - [Hello world : HelloZombies.sol](https://github.com/zombietimes/dapp_helloWorld)
 - [ERC20 : Coin20.sol](https://github.com/zombietimes/dapp_erc20)
