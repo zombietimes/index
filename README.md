@@ -15,6 +15,8 @@ This site is a list of links about DApps.
 - [setup0020_ubuntu](https://github.com/zombietimes/setup0020_ubuntu)
 - [setup0030_loomNetwork](https://github.com/zombietimes/setup0030_loomNetwork)
 - [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs)
+- [setup0041_nvm](https://github.com/zombietimes/setup0041_nvm)
+- [setup0042_yarn](https://github.com/zombietimes/setup0042_yarn)
 - [setup0050_truffle](https://github.com/zombietimes/setup0050_truffle)
 - [setup0060_openZeppelin](https://github.com/zombietimes/setup0060_openZeppelin)
 - [setup0070_ganache](https://github.com/zombietimes/setup0070_ganache)
