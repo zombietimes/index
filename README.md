@@ -9,6 +9,7 @@ This site is a list of links about DApps.
 - [Multi contract : ImportZombies.sol](https://github.com/zombietimes/dapp_multiContract)
 - [Sending Ether](https://github.com/zombietimes/dapp_sendEther)
 - [Trading system](https://github.com/zombietimes/dapp_trade)
+- [Securities : Bill.sol](https://github.com/zombietimes/dapp_bill)
 
 ## Set up script
 - [troubleShoot](https://github.com/zombietimes/troubleShoot)
