@@ -8,7 +8,7 @@ This site is a list of links about DApps.
 - [ERC721 : Asset721.sol](https://github.com/zombietimes/dapp_erc721)
 - [Multi contract : ImportZombies.sol](https://github.com/zombietimes/dapp_multiContract)
 - [Sending Ether](https://github.com/zombietimes/dapp_sendEther)
-- [Trading system](https://github.com/zombietimes/dapp_trade)
+- [Trading system : Trade.sol](https://github.com/zombietimes/dapp_trade)
 - [Securities : Bill.sol](https://github.com/zombietimes/dapp_bill)
 
 ## Set up script
