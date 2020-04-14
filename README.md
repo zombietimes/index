@@ -10,6 +10,7 @@ This site is a list of links about DApps.
 - [Sending Ether](https://github.com/zombietimes/dapp_sendEther)
 - [Trading system : Trade.sol](https://github.com/zombietimes/dapp_trade)
 - [Securities : Bill.sol](https://github.com/zombietimes/dapp_bill)
+- [noMetamask_Chat : Node.sol](https://github.com/zombietimes/noMetamask_Chat)
 
 ## Set up script
 - [troubleShoot](https://github.com/zombietimes/troubleShoot)
