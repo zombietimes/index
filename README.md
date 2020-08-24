@@ -13,6 +13,9 @@ This site is a list of links about DApps.
 - [noMetamask_Chat : Node.sol](https://github.com/zombietimes/noMetamask_Chat)
 - [PayPerDownload_Ppd : Ppd.sol](https://github.com/zombietimes/PayPerDownload_Ppd)
 
+## Web client
+- [secret_indexedDB](https://github.com/zombietimes/secret_indexedDB)
+
 ## Set up script
 - [troubleShoot](https://github.com/zombietimes/troubleShoot)
 - [setup0000_all](https://github.com/zombietimes/setup0000_all)
