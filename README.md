@@ -14,6 +14,7 @@ This site is a list of links about DApps.
 - [PayPerDownload_Ppd : Ppd.sol](https://github.com/zombietimes/PayPerDownload_Ppd)
 
 ## Web client
+- [breakout](https://github.com/zombietimes/breakout)
 - [bezierDrawer](https://github.com/zombietimes/bezierDrawer)
 - [secret_indexedDB](https://github.com/zombietimes/secret_indexedDB)
 
