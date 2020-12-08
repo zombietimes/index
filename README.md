@@ -17,6 +17,7 @@ This site is a list of links about DApps.
 - [testsite](https://github.com/zombietimes/testsite)
 
 ## Web client
+- [smileAnimation](https://github.com/zombietimes/smileAnimation)
 - [breakout](https://github.com/zombietimes/breakout)
 - [bezierDrawer](https://github.com/zombietimes/bezierDrawer)
 - [secret_indexedDB](https://github.com/zombietimes/secret_indexedDB)
