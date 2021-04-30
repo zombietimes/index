@@ -12,6 +12,7 @@ This site is a list of links about DApps.
 - [Securities : Bill.sol](https://github.com/zombietimes/dapp_bill)
 - [noMetamask_Chat : Node.sol](https://github.com/zombietimes/noMetamask_Chat)
 - [PayPerDownload_Ppd : Ppd.sol](https://github.com/zombietimes/PayPerDownload_Ppd)
+- [ERC1155 : DigitalItems.sol](https://github.com/zombietimes/dapp_digitalItems)
 
 ## Web site on GitHub
 - [testsite](https://github.com/zombietimes/testsite)
