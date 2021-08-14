@@ -13,6 +13,7 @@ This site is a list of links about DApps.
 - [noMetamask_Chat : Node.sol](https://github.com/zombietimes/noMetamask_Chat)
 - [PayPerDownload_Ppd : Ppd.sol](https://github.com/zombietimes/PayPerDownload_Ppd)
 - [ERC1155 : DigitalItems.sol](https://github.com/zombietimes/dapp_digitalItems)
+- [ERC20 ERC721 ERC1155 : Trade.sol](https://github.com/zombietimes/dapp_tradeERCtoken)
 
 ## Web site on GitHub
 - [testsite](https://github.com/zombietimes/testsite)
